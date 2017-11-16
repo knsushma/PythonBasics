@@ -1,0 +1,18 @@
+datatypes
+=========
+simple
+	-numeric
+		* int, float, complex
+	-string
+		* regular
+		* raw string
+		* doc string
+	-nonetype
+	-boolean
+
+compound
+--------
+	list (array)
+	dict (map, hashmap)
+	tuple (readonly list)
+	set (hash + list = hased list)

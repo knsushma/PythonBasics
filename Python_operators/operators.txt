@@ -1,0 +1,45 @@
+operators
+=========
+
+arithmetic opeartor
+===================
++, -, *, /, **, //, %
+
+// floor division 
+
+relational
+==========
+>, >=, <, <=, !=, ==
+
+logical operators
+==================
+and, or, not
+
+bitwise
+=======
+&, |, ^, ~, >>, <<
+
+5 & 2 
+101
+010 &
+===
+000
+
+
+if else conditional operator
+=====================
+syntax :-
+
+true-part if test-condition else false-part 
+
+
+range operator
+===============
+range
+
+
+
+
+
+
+
